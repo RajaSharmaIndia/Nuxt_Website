@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{265:function(n,t,e){"use strict";e.r(t);var o={name:"blog"},c=e(22),component=Object(c.a)(o,(function(){this._self._c;return this._m(0)}),[function(){var n=this._self._c;return n("div",[n("h1",[this._v("Welcome to blog Page")])])}],!1,null,"6d9514c4",null);t.default=component.exports}}]);
