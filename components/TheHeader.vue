@@ -1,6 +1,6 @@
 <template>
     <div>
-        <nav class="navbar navbar-expand-lg bg-light shadow-lg fixed-top">
+        <nav class="navbar navbar-expand-lg bg-primary shadow-lg fixed-top">
             <div class="container sticky-top">
                 <NuxtLink  to="/">
                     <img src="../assets/images/github.png" width="40"/>
